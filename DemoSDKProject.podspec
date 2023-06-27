@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/rohitax@svapinfotech.com/DemoSDKProject'
+  s.homepage         = 'https://github.com/rohitaxr/DemoSDKProject'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'rohitax@svapinfotech.com' => 'rohitax@svapinfotech.com' }
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '13.0'
 
-  s.source_files = 'DemoSDKProject/Classes/**/*.{h,m,swift}'
+  s.source_files = 'DemoSDKProject/Classes/**/*'
   s.swift_version = '5.0'
   # s.resource_bundles = {
   #   'DemoSDKProject' => ['DemoSDKProject/Assets/*.png']
