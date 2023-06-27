@@ -1,0 +1,22 @@
+{
+  "name": "DemoSDKProject",
+  "version": "0.1.0",
+  "summary": "A short description of DemoSDKProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rohitax@svapinfotech.com/DemoSDKProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rohitax@svapinfotech.com": "rohitax@svapinfotech.com"
+  },
+  "source": {
+    "git": "https://github.com/rohitax@svapinfotech.com/DemoSDKProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DemoSDKProject/Classes/**/*"
+}

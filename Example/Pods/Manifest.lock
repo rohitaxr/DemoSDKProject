@@ -1,0 +1,16 @@
+PODS:
+  - DemoSDKProject (0.1.0)
+
+DEPENDENCIES:
+  - DemoSDKProject (from `../`)
+
+EXTERNAL SOURCES:
+  DemoSDKProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoSDKProject: 1d3d2635b0f3851fdba366fdd6999d911ce0cd6e
+
+PODFILE CHECKSUM: 8032b8e9056f8786813ab1210290d63f2b385d85
+
+COCOAPODS: 1.12.0

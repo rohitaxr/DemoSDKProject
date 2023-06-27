@@ -1,0 +1,6 @@
+framework module DemoSDKProject {
+  umbrella header "DemoSDKProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
