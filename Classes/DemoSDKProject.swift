@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-class Test {
+class DemoSDKProject {
     
     func printFunc() {
         print("init")
